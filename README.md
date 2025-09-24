@@ -34,6 +34,10 @@ npm run dev
 
 ![Taskify Screenshot](./images/Taskify.png)
 
+## Deployment
+- using Vercel.
+- taskify-react-ri5b-bhcbdh82n-dhanalakshmis-projects-8167ccc6.vercel.app
+
 
 
 ```
